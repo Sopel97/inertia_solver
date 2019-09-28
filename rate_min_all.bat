@@ -1,0 +1,11 @@
+python rate_min.py solver.exe input/6x6_list.txt 10 true > 6x6_min_10s.txt
+python rate_min.py solver.exe input/10x8_list.txt 10 true > 10x8_min_10s.txt
+python rate_min.py solver.exe input/12x10_list.txt 10 true > 12x10_min_10s.txt
+python rate_min.py solver.exe input/17x14_list.txt 10 true > 17x14_min_10s.txt
+python rate_min.py solver.exe input/22x18_list.txt 10 true > 22x18_min_10s.txt
+python rate_min.py solver.exe input/32x32_list.txt 10 true > 32x32_min_10s.txt
+python rate_min.py solver.exe input/52x52_list.txt 10 true > 52x52_min_10s.txt
+python rate_min.py solver.exe input/64x64_list.txt 10 true > 64x64_min_10s.txt
+python rate_min.py solver.exe input/96x64_list.txt 10 true > 96x64_min_10s.txt
+python rate_min.py solver.exe input/96x96_list.txt 10 true > 96x96_min_10s.txt
+python rate_min.py solver.exe input/128x128_list.txt 10 true > 128x128_min_10s.txt

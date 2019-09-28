@@ -1,0 +1,1 @@
+g++ solver.cpp -o solver.exe -std=c++17
